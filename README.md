@@ -3,8 +3,8 @@
   <h2 align="center">Text2Image Playground</h2>
 </p>
 
-A playground for ML enthusiasts to tinker with an open-source, WIP OSS version of
-OpenAI's [DALL-E](https://openai.com/blog/dall-e/), with the main goal being to reduce the overall hardware requirements for training to an acceptable level where consumer-grade hardware can handle the full pipeline and complete it within a reasonable time frame.
+A playground for ML enthusiasts to tinker with an open-source, WIP custom-trained model that tries to mimic the functionality of
+OpenAI's [DALL-E](https://openai.com/blog/dall-e/), albeit with considerable compromises made for the sake of simplifying the pipeline and reducing the cost and hardware requirements necessary to complete training and fine-tuning. That last part of the previous sentence represents the main goal, ie trying to reduce the overall hardware requirements for training to an acceptable level where consumer-grade hardware can handle the model training/fine-tuning pipeline and a full stack implementation can be integrated into a live public facing environment within a reasonable time frame.
 
 ## Using the Mega Model
 
