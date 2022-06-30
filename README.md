@@ -3,8 +3,8 @@
   <h2 align="center">Text2Image Playground</h2>
 </p>
 
-A playground for ML enthusiasts to tinker with an open-source, WIP version of
-OpenAI's [DALL-E](https://openai.com/blog/dall-e/).
+A playground for ML enthusiasts to tinker with an open-source, WIP OSS version of
+OpenAI's [DALL-E](https://openai.com/blog/dall-e/), with the main goal being to reduce the overall hardware requirements for training to an acceptable level where consumer-grade hardware can handle the full pipeline and complete it within a reasonable time frame.
 
 ## Using the Mega Model
 
@@ -33,6 +33,6 @@ Follow these steps in case you'd like to clone and run the DALL-E playground loc
    models and other dependencies are downloaded only once, and then cached.
 4. Copy backend's url from step 2 and paste it in the backend's url input within the web app.
    
-   webapp at `http://localhost:3000/text-2-image
+   webapp at `http://localhost:3000/text-2-image`
 
 
